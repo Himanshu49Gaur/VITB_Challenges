@@ -1,1 +1,8 @@
+Day 1: GitHub Account Setup and Exploration
+Create a GitHub account, if not.
+Explore the GitHub interface: dashboard, profiles, repositories, issues, pull requests.
+Understand the concept of a repository.
+Learn about Markdown for README.md files.
+Here’s The challenge — Create your own custom readme file for your profile.
+Look for some open source readme collections , and pick your best selections from their readme, to add to yours. Make it as cool as you can… because it’s yours !
 

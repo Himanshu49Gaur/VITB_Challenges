@@ -1,1 +1,7 @@
+Day 3: Git Basics - Remote Connection
+Create your first repository on GitHub.
+Link your local repository to the remote GitHub repository: git remote add origin, git push.
+Learn git pull to fetch changes from the remote.
+Here’s the challenge for you. NEVER PUSH ANY CODE , FROM THE GITHUB UI. always push it through the git push command shared above, throughout the entire challenge. Get in a habit of pushing to Git through cli.
+Make your first push. If not your first push… then , make it a cli command based push. 
 

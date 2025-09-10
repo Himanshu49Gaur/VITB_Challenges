@@ -1,1 +1,5 @@
+Day 2: Git Basics - Local Setup
+Install Git on your local machine.
+Configure Git with your username and email.
+Learn basic Git commands: git init, git add, git commit.
 

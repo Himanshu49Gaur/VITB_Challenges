@@ -48,3 +48,13 @@ This repo is categorized for easy navigation and practical learning:
 - **Participate in Contests:** Make use of the `OpenSourceChallenge` and `HackerEarth` folders for timed practice.
 
 ---
+
+## Tips for Effective DSA Learning
+
+- Break down large problems and attempt each part step by step.
+- Try to implement multiple approaches (brute force/optimized).
+- Comment your logic for easier revision.
+- Make use of visualization tools for complex data structures (like trees/graphs).
+- Record bugs and debugging strategies to avoid future mistakes.
+
+---

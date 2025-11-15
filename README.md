@@ -30,3 +30,12 @@ This repo is categorized for easy navigation and practical learning:
 - **Self-Practice:** Additional questions picked personally for skill improvement and to bridge knowledge gaps.
 
 ---
+
+# How to Use This Repository
+
+1. **Browse by Topic or Platform:** Navigate into folders based on your area/platform of interest (e.g., `LeetCode` for LeetCode-specific coding or `GFG160` for GeeksforGeeks common DSA sets).
+2. **Read Solution Files:** Each solution is provided as a well-documented code file, often with problem description, input/output specs, and approach comments.
+3. **Learn from Explanations:** Many solutions contain explanations or screenshots where necessary to clarify tricky cases or demonstrate testing.
+4. **Contribute:** If you want to add your own solutions or improvements, fork the repo and make a Pull Request with a clear explanation in your commit.
+
+---

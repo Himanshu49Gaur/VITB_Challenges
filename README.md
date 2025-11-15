@@ -19,3 +19,14 @@ This repo is categorized for easy navigation and practical learning:
 | `README.md`             | Documentation and guidelines for contributors and users                                  |
 
 ---
+
+## What You'll Find
+
+- **DSA Problems:** Wide range of questions covering arrays, strings, linked lists, trees, stacks, queues, heaps, graphs, hash maps, recursion, backtracking, and dynamic programming.
+- **Algorithmic Practice:** Classic and advanced algorithms including sorting, searching, greedy, divide & conquer, and graph traversal.
+- **Competitive Coding:** Real contest problems from platforms like LeetCode and HackerEarth with explanations.
+- **College Assignments:** Solutions for college-mandated programming assignments, frequently with screenshots and stepwise solutions.
+- **Open Source Challenges:** Community challenges encouraging real-world coding and contribution to public projects.
+- **Self-Practice:** Additional questions picked personally for skill improvement and to bridge knowledge gaps.
+
+---

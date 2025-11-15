@@ -58,3 +58,13 @@ This repo is categorized for easy navigation and practical learning:
 - Record bugs and debugging strategies to avoid future mistakes.
 
 ---
+
+## Contribution Guide
+
+- **Folder Structure:** Maintain logical folder organization. Place code files in the correct directory.
+- **Naming Convention:** Use meaningful names like `problem-title.py` or `contest-name_q1.cpp`.
+- **Documentation:** Include brief problem statements and approach for each solution.
+- **Screenshots:** Where asked, attach screenshots for input/output or code snapshots.
+- **Clean Commits:** Write clear, descriptive commit messages.
+
+---

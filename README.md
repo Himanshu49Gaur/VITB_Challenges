@@ -39,3 +39,12 @@ This repo is categorized for easy navigation and practical learning:
 4. **Contribute:** If you want to add your own solutions or improvements, fork the repo and make a Pull Request with a clear explanation in your commit.
 
 ---
+
+## Recommended Workflow
+
+- **Daily Practice:** Aim to solve a small set of problems regularly for retention.
+- **Tag Difficult Questions:** Mark unsolved or difficult questions for further revision.
+- **Compare Solutions:** Refer to multiple solutions or approaches when available.
+- **Participate in Contests:** Make use of the `OpenSourceChallenge` and `HackerEarth` folders for timed practice.
+
+---

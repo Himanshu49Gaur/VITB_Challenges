@@ -68,3 +68,9 @@ This repo is categorized for easy navigation and practical learning:
 - **Clean Commits:** Write clear, descriptive commit messages.
 
 ---
+
+## Why This Repository?
+
+This repo serves as a comprehensive study log, coding journal, and peer resource for anyone in VIT Bhopal or beyond, seeking to excel in DSA and programming interviews. By maintaining discipline, regularly updating solutions, and contributing actively, you'll not only clear your assignments but also build real confidence for placement and advanced software engineering roles.
+
+---

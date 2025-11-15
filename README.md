@@ -74,3 +74,7 @@ This repo is categorized for easy navigation and practical learning:
 This repo serves as a comprehensive study log, coding journal, and peer resource for anyone in VIT Bhopal or beyond, seeking to excel in DSA and programming interviews. By maintaining discipline, regularly updating solutions, and contributing actively, you'll not only clear your assignments but also build real confidence for placement and advanced software engineering roles.
 
 ---
+
+## Contact
+
+For suggestions, corrections, or collaborations, open an issue or create a pull request. Happy Coding!

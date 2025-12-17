@@ -1,1 +1,5 @@
+Day 9: Identifying Contribution Opportunities - Part 2 (Beginner-Friendly Code Changes)
+
+Look for repositories that have "good first issue" labels related to minor code changes (e.g., adding a simple function, fixing a minor bug).
+Explore projects specifically designed for first-time contributors.
 

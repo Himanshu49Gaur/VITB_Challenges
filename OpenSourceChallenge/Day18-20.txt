@@ -1,1 +1,8 @@
+Days 18-20: Advanced Contribution Practice & Profile Building
+
+Continue searching for contributions, aiming for projects that genuinely interest you.
+Consider contributing to projects you use regularly.
+Respond to comments and feedback on your existing Pull Requests. Learn from any requested changes.
+Refine your commit messages and PR descriptions for clarity and professionalism.
+By the end of Day 20, you should have several contributions (Pull Requests) submitted, with some potentially merged.
 

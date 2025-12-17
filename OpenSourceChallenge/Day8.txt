@@ -1,1 +1,6 @@
+Day 8: Identifying Contribution Opportunities - Part 1 (Documentation and Typos)
+
+Focus on finding repositories with good documentation.
+Look for simple typos, grammatical errors, or areas where clarity can be improved in README.md files, CONTRIBUTING.md guides, or other documentation.
+Search for repositories with the "good first issue" or "help wanted" labels on GitHub.
 

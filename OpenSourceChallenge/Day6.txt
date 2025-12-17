@@ -1,1 +1,5 @@
+Day 6: Understanding Issues and Pull Requests
+
+Explore the "Issues" tab in various repositories. Understand how issues are used for bug reports, feature requests, and discussions.
+Explore the "Pull Requests" tab. Understand how PRs are used to propose changes.
 

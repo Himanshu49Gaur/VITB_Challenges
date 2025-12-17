@@ -1,1 +1,11 @@
+Day 21: Review and Plan
+
+Review your GitHub profile. See all the contributions you've made.
+Reflect on what you've learned about Git, GitHub, and open source collaboration.
+Identify areas where you feel confident and areas where you still want to improve.
+Plan your next steps:
+Continue contributing to the projects you've started.
+Explore new projects.
+Consider creating your own open-source project.
+Learn more advanced Git concepts (rebase, cherry-pick, stashing).
 

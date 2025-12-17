@@ -1,1 +1,10 @@
+Day 10: Making Your First Real Pull Request (Documentation)
+
+Choose one of the typo/documentation fixes you identified. Could be a typo error. Could be a real issue , if you have control over your language of choice.
+Fork the original repository (if you haven't already).
+Clone your forked repository.
+Create a new branch for your specific change.
+Make the change and commit.
+Push to your forked repository.
+Create your first Pull Request to the original repository. Write a clear and concise PR description referencing the issue (if applicable). Share it on Linkedin !!  It’s an achievement
 

@@ -1,1 +1,5 @@
+Days 11-14: Iterative Contributions - Small Fixes
+Identify 2-3 more simple (non documentational) improvements or minor bug fixes in different repositories.
+Repeat the fork, clone, branch, commit, push, and Pull Request process for each.
+Pay attention to the project's CONTRIBUTING.md guidelines for each repository.
 

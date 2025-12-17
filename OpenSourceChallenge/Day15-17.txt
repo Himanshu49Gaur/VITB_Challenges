@@ -1,1 +1,6 @@
+Days 15-17: Expanding Contribution Scope - Feature Additions/Refactorings
+
+Look for slightly more complex "good first issues" or features that require adding a small amount of code.
+This could involve adding a new utility function, improving a script, or refactoring a small part of existing code for better readability.
+Engage with maintainers on issues or in discussions if you have questions.
 

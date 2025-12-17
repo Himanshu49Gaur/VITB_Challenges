@@ -1,1 +1,8 @@
+Day 7: Your First Local Contribution Simulation
+
+On your forked repository, create a new branch.
+Make a small, simple change (e.g., fix a typo in the README.md, add a new line of text).
+Commit your changes locally.
+Push your changes to your forked repository. Do not create a pull request yet. This is just a simulation to get you an idea on your local to remote workflow. Making sure it is solid.
+
 

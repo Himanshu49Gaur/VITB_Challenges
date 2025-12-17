@@ -1,1 +1,5 @@
+Day 5: Forking and Cloning
+Understand the difference between forking and cloning.
+Fork a simple repository (e.g., a "hello world" repository or a list of beginner-friendly projects).
+Clone your forked repository to your local machine.
 
